@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oskarblazej&theme=dark&border_radius=4.2&type=png)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oskarblazej&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,vim,js,react&theme=dark)](https://skills.thijs.gg)
 
