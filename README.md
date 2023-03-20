@@ -2,7 +2,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oskarblazej&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,vim,js,c#&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,vim,js,cs&theme=dark)](https://skills.thijs.gg)
 
 -->
 - 🔭 I’m currently working on completing the CS50 Course -> 'Final Project' stage
