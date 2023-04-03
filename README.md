@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on a big project that can influence the world.
 - 📫 How to reach me: you can contact me via email address: hampeloskarmt@gmail.com or LinkedIN: Oskar Hampel
-- ⚡ Fun fact: I attended law&media class to better manage my time and pass the HighSchool final exam from IT ;)
+- ⚡ Fun fact: I attended law&media class to better manage my time and pass the HighSchool IT final exam ;)
 
 -->
 
