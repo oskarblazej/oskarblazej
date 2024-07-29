@@ -6,7 +6,7 @@
 
 -->
 - 🔭 I’m currently working as an IT Education & Compliance Specialist
-- 🌱 I’m currently learning TypeScript & React.
+- 🌱 I’m currently learning for OSCP.
 - 👯 I’m looking to collaborate on a big project that can influence the world.
 - 📫 How to reach me: you can contact me via email address: hampeloskarmt@gmail.com or LinkedIN: Oskar Hampel
 - ⚡ Fun fact: I attended law&media class to better manage my time and pass the HighSchool IT final exam ;)
