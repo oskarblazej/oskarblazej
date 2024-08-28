@@ -5,7 +5,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,c,js,ts&theme=dark)](https://skills.thijs.gg)
 
 -->
-- 🔭 I’m currently working as an IT Education & Compliance Specialist
+- 🔭 I’m currently working as a Senior IT Education & Compliance Specialist
 - 🌱 I’m currently learning for OSCP.
 - 👯 I’m looking to collaborate on a big project that can influence the world.
 - 📫 How to reach me: you can contact me via email address: hampeloskarmt@gmail.com or LinkedIN: Oskar Hampel
