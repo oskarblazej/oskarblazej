@@ -6,7 +6,6 @@
 
 -->
 - 🔭 I’m currently working as an Application Security & IT Compliance Consultant.
-- 🌱 I’m currently learning for OSCP.
 - 👯 I’m looking to collaborate on a big project that can influence the world.
 - ⚡ Fun fact: I attended law&media class to better manage my time and pass the HighSchool IT final exam ;)
 
